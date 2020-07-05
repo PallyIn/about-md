@@ -5,12 +5,12 @@ about:
     # about item loop
     - title : "What We can **do for you**?"
       image : "images/illustrations/about-img.png"
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.Lorem ipsum dolor sit amet, consetetur sadipscing elitr ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+      content : "We will solve the problem of identifying who the user is by peforming Know Your Customer (KYC) on your users. It is very easy on interent to impersonate someone else, since there is no good way to determine, either businesses have to conservative or be prone to frauds. We solve this problem by finding out whether the use is who she is claiming to be. So as a result, as a business you can trust the user you are dealing with."
       
     # about item loop
     - title : "What is our **Mission**?"
       image : "images/illustrations/about-img-2.png"
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.Lorem ipsum dolor sit amet, consetetur sadipscing elitr ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+      content : "We want to make internet a safe place to do commerce. Our mission is to protect businesses and users from fraud and facilitate them to be able to trust each other. When businesses can trust our customers the commerce flows more naturally and businesses thrive. We want to enable this."
 
 
 ################################ Service ##################################

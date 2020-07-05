@@ -3,26 +3,26 @@ banner:
   enable : true
   bgImage : "images/backgrounds/banner-bg.png"
   image : "images/illustrations/banner-img.png"
-  title : "**Build your audience** and grow on social media"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy <br> eirmod tempor invidunt ut labore et dolore magna."
-  button:
-    enable : true
-    label : "download now"
-    link : "#"
+  title : "**Verify your users** and grow your business"
+  content : "We help you verify your users automatically so that you can trust them. The specific use cases are Know Your Customer (KYC), Regulatory Requirements or Automation."
+#  button:
+#    enable : true
+#    label : "download now"
+#    link : "#"
 
 
 ############################# Clients logo #################################
 clientsLogo:
   enable : true
   logos:
-    - logo : "images/clients-logo/clients-logo-1.png"
-    - logo : "images/clients-logo/clients-logo-2.png"
-    - logo : "images/clients-logo/clients-logo-3.png"
-    - logo : "images/clients-logo/clients-logo-4.png"
-    - logo : "images/clients-logo/clients-logo-5.png"
-    - logo : "images/clients-logo/clients-logo-6.png"
-    - logo : "images/clients-logo/clients-logo-7.png"
-    - logo : "images/clients-logo/clients-logo-8.png"
+    - logo : "images/clients-logo/classic_rummy.svg"
+    - logo : "images/clients-logo/kofluence.svg"
+    - logo : "images/clients-logo/FinBit-io.svg"
+    - logo : "images/clients-logo/cayal_logo-3x.jpg"
+#    - logo : "images/clients-logo/clients-logo-5.png"
+#    - logo : "images/clients-logo/clients-logo-6.png"
+#    - logo : "images/clients-logo/clients-logo-7.png"
+#    - logo : "images/clients-logo/clients-logo-8.png"
 
 
 ################################ Service ##################################
@@ -35,9 +35,7 @@ about:
   enable : true
   title : "What We can **do for you**?"
   image : "images/illustrations/about-img.png"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna justo takimata sanctus est Lorem ipsum dolor sit rergg rgsea dolor sit amet, consetetur
-          sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna."
+  content : "Depending on your use case we can provide you a standardised solution or work with you to build a custom ML solution."
   button:
     enable : true
     label : "know more"
@@ -48,7 +46,7 @@ about:
 cta:
   enable : true
   bgImage : "images/backgrounds/footer-bg.png"
-  title : "Join 75,000+ growing businesses that use Buffer to build their brands"
+  title : "Join many growing businesses that use Pally to onboard customers without any friction."
   button:
     enable : true
     label : "Join us now"
@@ -59,19 +57,19 @@ aboutApp:
   enable : true
   appItem:
     # about app item loop
-    - title : "**Collaborate** on content with your team"
+    - title : "**Build trust** with your customers"
       image : "images/about-app/app-screen-1.png"
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+      content : "Once you as a business know that the customer is who she is claiming to be, it is much easier to trust."
       
     # about app item loop
-    - title : "Take your **marketing** to the next level"
+    - title : "Take your **Automation** to the next level"
       image : "images/about-app/app-screen-2.png"
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+      content : "Manual processing can be expensive and time consuming, we make it instant and less prone to errors."
       
     # about app item loop
-    - title : "**Collaborate** on content with your team"
+    - title : "**Supercharge** your documents processing"
       image : "images/about-app/app-screen-3.png"
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+      content : "Sometimes off the shelf Optical Character Recognition (OCR) sytems do not perform as well on custom documents, we help you build custom solutions for that"
 
 
 #################################### Testimonial ##########################
@@ -80,17 +78,17 @@ testimonial:
   title : "What **Peoples Says** About Us"
   sliderItem:
     # slider item loop
-    - name : "John Doe"
-      designation : "CEO,3D Coders"
+    - name : "Anandhi Sridhar"
+      designation : "CEO, Cayal"
       image : "images/testimonial/user-1.jpg"
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore"
+      content : "Pally has helped us solved a major pain point for us, which was to verify the customers. Our business runs on trust and we used to manually verify every user before, thanks to team at Pally who worked with us to help us automate the entire process."
       rating : "four"
       
     # slider item loop
-    - name : "Mark Dinn"
-      designation : "CEO,3D Coders"
+    - name : "Ritesh Ujjwal"
+      designation : "COO, Kofluence"
       image : "images/testimonial/user-1.jpg"
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore"
+      content : "I run an online cards game where players bet on money. As per regulation we need to perform KYC on our users and also ensure they are over 18. Earlier the cost of KYC was $5 for us, now it is reduced to 50 cents and takes no time. We are thrilled to work with Pally!"
       rating : "five"
 
 
