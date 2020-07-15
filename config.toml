@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://pallyin.github.io/about-ocr/"
+baseURL = "https://pallyin.github.io/about-md/"
 languageCode = "en-us"
 title = "Gosaas | hugo saas landing template"
 theme = "gosaas-hugo"
