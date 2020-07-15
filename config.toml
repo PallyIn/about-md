@@ -3,6 +3,7 @@ baseURL = "https://pallyin.github.io/about-ocr/"
 languageCode = "en-us"
 title = "Gosaas | hugo saas landing template"
 theme = "gosaas-hugo"
+publishDir = "docs"
 
 ############################# Plugins ##############################
 [params.plugins]
