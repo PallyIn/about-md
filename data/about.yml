@@ -3,7 +3,7 @@ about:
   enable : true
   aboutItem:
     # about item loop
-    - title : "What We can **do for you**?"
+    - title : "What We can **do for you** our valued for customer?"
       image : "images/illustrations/about-img.png"
       content : "We will solve the problem of identifying who the user is by peforming Know Your Customer (KYC) on your users. It is very easy on interent to impersonate someone else, since there is no good way to determine, either businesses have to conservative or be prone to frauds. We solve this problem by finding out whether the use is who she is claiming to be. So as a result, as a business you can trust the user you are dealing with."
       
