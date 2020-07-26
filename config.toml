@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://pallyin.github.io/about-md/"
+baseURL = "https://about.pally.in"
 languageCode = "en-us"
 title = "Gosaas | hugo saas landing template"
 theme = "gosaas-hugo"
