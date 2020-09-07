@@ -15,9 +15,9 @@ banner:
 clientsLogo:
   enable : true
   logos:
-    - logo : "images/clients-logo/classic_rummy.svg"
-    - logo : "images/clients-logo/kofluence.svg"
-    - logo : "images/clients-logo/FinBit-io.svg"
+    - logo : "images/clients-logo/classic_rummy.png"
+    - logo : "images/clients-logo/kofluence.png"
+    - logo : "images/clients-logo/FinBit-io.png"
     - logo : "images/clients-logo/cayal_logo-3x.jpg"
 #    - logo : "images/clients-logo/clients-logo-5.png"
 #    - logo : "images/clients-logo/clients-logo-6.png"

@@ -11,35 +11,16 @@ service:
       content : "Use our API (s) to verify the customer. We work with all of the Government approved ID (s)."
       
     # service item loop
-    - title : "Fraud Detection"
+    - title : "Download our App/SDK"
       icon : "ti-comments" # themify icon pack https://themify.me/themify-icons
       iconColor : "secondary" # color available : primary, secondary, tertiary
-      content : "We can identify and frauds in these documents using our latest technology."
+      content : "Use our app/SDK to integrate in an app of your own"
       
     # service item loop
     - title : "Custom Models"
       icon : "ti-bar-chart" # themify icon pack https://themify.me/themify-icons
       iconColor : "tertiary" # color available : primary, secondary, tertiary
       content : "Have different kind of documents e.g. receipts we help build custom models as per use case."
-      
-    # service item loop
-#    - title : "Calendaring"
-#      icon : "ti-calendar" # themify icon pack https://themify.me/themify-icons
-#      iconColor : "secondary" # color available : primary, secondary, tertiary
-#      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore."
-      
-    # service item loop
-#    - title : "Scheduling"
-#      icon : "ti-write" # themify icon pack https://themify.me/themify-icons
-#      iconColor : "tertiary" # color available : primary, secondary, tertiary
-#      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore."
-      
-    # service item loop
-#    - title : "Time Counting"
-#      icon : "ti-alarm-clock" # themify icon pack https://themify.me/themify-icons
-#      iconColor : "primary" # color available : primary, secondary, tertiary
-#      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore."
-
 
 ################################## About App ##############################
 aboutApp:
