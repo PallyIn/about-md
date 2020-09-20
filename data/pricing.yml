@@ -5,28 +5,19 @@ pricing:
   pricingTable :
     # pricing table loop
     - name : "Starter Plan"
-      price : "Free"
-      content : "**1 year** of support and updates for **1 website**"
+      price : "Free Tier"
+      content : "100 API calls per month"
       button:
         label : "Buy now"
         link : "#"
         
     # pricing table loop
     - name : "Advance Plan"
-      price : "$9"
-      content : "**1 year** of support and updates for **1 website**"
+      price : "$1.50"
+      content : "Per 100 API Calls"
       button:
         label : "Buy now"
         link : "#"
-        
-    # pricing table loop
-    - name : "Pro Plan"
-      price : "$19"
-      content : "**1 year** of support and updates for **1 website**"
-      button:
-        label : "Buy now"
-        link : "#"
-
 ################################## About App ##############################
 aboutApp:
   enable : true

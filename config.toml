@@ -111,11 +111,11 @@ link = "#"
 
 [[params.social]]
 name = "Twitter"
-link = "#"
+link = "https://twitter.com/pally_in"
 
 [[params.social]]
 name = "Github"
-link = "#"
+link = "https://github.com/PallyIn/"
 
 [[params.social]]
 name = "Linkedin"
@@ -125,7 +125,7 @@ link = "#"
 ########################### footer call to action #####################
 [params.cta]
 enable = true
-title  = "Join 75,000+ growing businesses that <br> use Buffer to build their brands"
+title  = "Join so many growing businesses like you that <br> use Pally to build trust with their users"
 #button
 label = "Get start with us"
 link = "#"
@@ -134,12 +134,12 @@ link = "#"
 ############################ footer ##############################
 [params.footer]
 bgImage = "images/backgrounds/footer-bg.png"
-content = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has."
+content = "We help you trust your customer"
 
 # card we accept
-[[params.footer.card]]
-image = "images/paypal.png"
-[[params.footer.card]]
-image = "images/visa.png"
-[[params.footer.card]]
-image = "images/a-express.png"
+#[[params.footer.card]]
+#image = "images/paypal.png"
+#[[params.footer.card]]
+#image = "images/visa.png"
+#[[params.footer.card]]
+#image = "images/a-express.png"
