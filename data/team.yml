@@ -5,7 +5,7 @@ team:
   teamMember:
     # team member loop
     - name : "Anupam Mediratta"
-      image : "images/team/team-member-1.jpg"
+      image : "images/team/team-member-4.jpg"
       designation : "Cofounder | ML Engineer"
       email : "anupam@pally.in"
       socialLinks:
