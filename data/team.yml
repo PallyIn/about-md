@@ -4,6 +4,20 @@ team:
   subtitle : "We are a team of seasoned entrepreneurs, Machine Learning engineers and Software Architects."
   teamMember:
     # team member loop
+    - name : "Chandra Haas"
+      image : "images/team/team-member-5.jpg"
+      designation : "Cofounder | Business"
+      email : "chandra@pally.in"
+      bio: "Chandra Haas is an IIT and London Business School alumnus,  
+      serial entreprenuer and experienced  CEO in technology product 
+      companies. Has extensive experience in US, UK and India markets."
+      socialLinks:
+        - icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/haas_chandra"
+          
+        - icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/haaschandra/"
+
     - name : "Anupam Mediratta"
       image : "images/team/team-member-4.jpg"
       designation : "Cofounder | ML Engineer"
@@ -26,3 +40,4 @@ team:
           
         - icon : "ti-github" # themify icon pack https://themify.me/themify-icons
           link : "https://github.com/dusual"
+
