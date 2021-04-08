@@ -1,7 +1,7 @@
 ################################# team ###################################
 team:
   title : "Our **Team** Members"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor <br> invidunt ut labore et dolore magna aliquyam erat, sed diam"
+  subtitle : "We are a team of seasoned entrepreneurs, Machine Learning engineers and Software Architects."
   teamMember:
     # team member loop
     - name : "Anupam Mediratta"
